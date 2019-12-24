@@ -1,4 +1,5 @@
 # Gmail-API-Send
+## ezgmail
 ## 藉由Gmail API寄送郵件，授權後免輸入帳號密碼
 https://developers.google.com/gmail/api/quickstart/python
 1. Download credentials.json [DOWNLOAD CLIENT CONFIGURATION ]
@@ -7,4 +8,4 @@ https://developers.google.com/gmail/api/quickstart/python
 4. token.json、token.pickle
 5. 將token.pickle、token.json、credentials.json放置同目錄下
 6. pip install ezgmail
-7. python send_mail_ezgmail.py.py
+7. python send_mail_ezgmail.py
